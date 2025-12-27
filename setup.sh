@@ -25,4 +25,4 @@ pip install requests==2.31.0 urllib3==1.26.15
 chmod +x WHP.py
 
 echo -e "${GREEN}[+] WHP Fix Applied!${RESET}"
-echo -e "${CYAN}[!] Type 'python WHP.py' to launch.${RESET}"
+echo -e "${CYAN}[!] Type 'python WHP-TRACKER.py' to launch.${RESET}"
